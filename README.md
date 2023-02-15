@@ -2,7 +2,7 @@
 
 This is my portfolio website
 
-## A portfolio is:
+# A portfolio is:
 
 ## Portfolios provide you with a personal record of your success or improvement in a range of areas. They are essential and relevant to your own career development. Your personal portfolio is a compilation of relevant work samples and documents gathered during your school years and presented in a structured manner.
 
